@@ -9,11 +9,15 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "lodash": "^4.17.21",
     "next": "12.0.1",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "react-use": "^17.3.1",
+    "use-command": "^1.0.0"
   },
   "devDependencies": {
+    "@types/lodash": "^4.14.176",
     "@types/node": "16.11.6",
     "@types/react": "17.0.33",
     "eslint": "7",
